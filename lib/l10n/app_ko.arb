@@ -1,0 +1,16 @@
+{
+    "@@locale": "ko",
+    "settings": "설정",
+    "notifications": "알림",
+    "darkMode": "다크 모드",
+    "language": "언어",
+    "selectLanguage": "언어 선택",
+    "themeColor": "테마 색상",
+    "fontSize": "글꼴 크기",
+    "aboutApp": "앱 정보",
+    "versionInfo": "버전 정보",
+    "english": "영어",
+    "chinese": "중국어",
+    "japanese": "일본어",
+    "korean": "한국어"
+}

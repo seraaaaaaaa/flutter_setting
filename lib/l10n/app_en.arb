@@ -1,0 +1,16 @@
+{
+    "@@locale": "en",
+    "settings": "Settings",
+    "notifications": "Notifications",
+    "darkMode": "Dark Mode",
+    "language": "Language",
+    "selectLanguage": "Select Language",
+    "themeColor": "Theme Color",
+    "fontSize": "Font Size",
+    "aboutApp": "About App",
+    "versionInfo": "Version Info",
+    "english": "English",
+    "chinese": "Chinese",
+    "japanese": "Japanese",
+    "korean": "Korean"
+}

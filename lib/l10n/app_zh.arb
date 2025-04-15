@@ -1,0 +1,16 @@
+{
+    "@@locale": "zh",
+    "settings": "设置",
+    "notifications": "通知",
+    "darkMode": "暗黑模式",
+    "language": "语言",
+    "selectLanguage": "选择语言",
+    "themeColor": "主题颜色",
+    "fontSize": "字体大小",
+    "aboutApp": "关于应用程序",
+    "versionInfo": "版本信息",
+    "english": "英文",
+    "chinese": "中文",
+    "japanese": "日文",
+    "korean": "韩文"
+}
